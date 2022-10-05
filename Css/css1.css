@@ -1,0 +1,103 @@
+body
+{
+    background-image: url(img/bg.jpeg);
+    background-color:red;
+}
+.dev1
+{  box-sizing: border-box;
+   margin-top: 4%;
+   margin-bottom: 2.5%;
+   margin-left: 2.5%;
+    color: aliceblue;
+    width: 20%;
+    height: 90%;
+    background-color:#201f1f;
+    float: left;
+}
+.dev1 h2
+{
+    margin-left: 20%;
+}
+
+.dev1 img 
+{  display: flex;
+
+    margin-left: 25%;
+    margin-top: 15%;
+    height: 26%;
+    width: 50%;
+    border-radius:50%;
+    border-color: yellow;
+  background-color: yellow;
+  border-right: 20px;
+}
+
+ .dev1 a
+
+ {
+   margin-left: 33%;
+    font-size: 20px;
+  
+
+ 
+   text-decoration: none;
+   text-decoration-color: none;
+
+ 
+ }
+ .dev11
+{  
+   margin-top: 4%;
+    
+   margin-left: 6%;
+    color: aliceblue;
+    width: 85%;
+    height: 9%;
+    background-color:#171616;
+    float:center;
+    border-radius: 25px;
+}
+.dev12
+{  
+   margin-top: 4%;
+    
+   margin-left: 6%;
+    color: aliceblue;
+    width: 85%;
+    height: 9%;
+    background-color:#171616;
+    float:center;
+    border-radius: 25px;
+}
+.dev13
+{  border-radius: 25px;
+   margin-top: 4%;
+    
+   margin-left: 6%;
+    color: aliceblue;
+    width: 85%;
+    height: 9%;
+    background-color:#171616;
+    float:center;
+}
+.dev14
+{  border-radius: 25px;
+   margin-top: 4%;
+    
+   margin-left: 6%;
+    color: aliceblue;
+    width: 85%;
+    height: 9%;
+    background-color:#171616;
+    float:center;
+}
+.dev2
+{    float: right;
+    margin-right: 2.5%;
+  margin-top: 4%;
+   margin-bottom: 2.5%;
+    color: aliceblue;
+    width: 75%;
+    height: 90%;
+  
+}
